@@ -1,0 +1,18 @@
+{
+    "aimbot_enabled": true,
+    "aim_key": "RMB",
+    "aim_fov": 200,
+    "aim_smooth": 1.0,
+    "max_step_px": 20.0,
+    "head_ratio": 0.16,
+    "confidence_threshold": 0.4,
+    "rcs_enabled": true,
+    "rcs_scale": 2.5,
+    "trigger_enabled": true,
+    "trigger_key": "X",
+    "trigger_tolerance_px": 14,
+    "trigger_delay_ms": 100,
+    "overlay_enabled": false,
+    "draw_fov": true,
+    "draw_esp": true
+}
